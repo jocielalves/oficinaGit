@@ -3,3 +3,10 @@ body {
     color: white;
     font-size: 50px;
 }
+
+
+header {
+    background-color: azul;
+    color: white;
+    font-size: 15px;
+}
